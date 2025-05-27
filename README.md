@@ -43,5 +43,5 @@ To explore time-series physiological data and classify different affective state
 
 ---
 
-## 📂 Project Structure
+
 
